@@ -14,3 +14,5 @@
 
 ### 🕶 Languages
 ![HTML5](https://img.shields.io/badge/HTML5-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-f0932b?style=plastic&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-18dcff?style=plastic&logo=CSS3&logoColor=white) ![React](https://img.shields.io/badge/REACT-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-3ae374?style=plastic&logo=React&logoColor=white) ![Typescript](https://img.shields.io/badge/TYPESCRIPT-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-7158e2?style=plastic&logo=Typescript&logoColor=white)
+
+![Javascript](https://img.shields.io/badge/JAVASCRIPT-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white)
