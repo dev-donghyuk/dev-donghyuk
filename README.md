@@ -10,7 +10,7 @@
 |:--------:|:--------:|:--------:|:--------:|
 | **고등학교** | 2015. 3 ~ 2018. 3 | 고등학교 졸업 | **송곡고등학교** |
 | **교육** | 2019. 4 ~ 2019. 9 | 하이브리드 UI UX 웹 퍼블리싱 교육과정 이수 | **이젠컴퓨터학원** |
-| **근로** | 2019. 12 ~ 2020. 12 | 프론트엔드 개발자 | **에스브이 주식회사** |
+| **퇴사** | 2019. 12 ~ 2020. 12 | 프론트엔드 개발자 | **에스브이 주식회사** |
 
 ### 🕶 Languages
 ![HTML5](https://img.shields.io/badge/HTML5-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-ff8a3d?style=plastic&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-56c271?style=plastic&logo=CSS3&logoColor=white) ![Javascript](https://img.shields.io/badge/JAVASCRIPT-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-ff8a3d?style=plastic&logo=Javascript&logoColor=white) ![React](https://img.shields.io/badge/REACT-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-ff8a3d?style=plastic&logo=React&logoColor=white) ![Typescript](https://img.shields.io/badge/TYPESCRIPT-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-ff8a3d?style=plastic&logo=Typescript&logoColor=white)
