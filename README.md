@@ -2,7 +2,7 @@
 
 저는 HTML5, CSS3, Javascript, Jquery, React, Redux, Next Js, Typescript로 프로젝트🏢를 한 **경험**이 있습니다.
 최근에 **Javascript**와 **ES6**에 관심을 가지고 공부를 하고 있는데, **프론트 엔드 개발자**로써,
-다른건 몰라도 Javascript는 잘해야된다고 생각해서 다시 공부를 하고있습니다.
+다른건 몰라도 Javascript는 잘해야된다고 생각해서 기본부터 다시 공부를 하고있습니다.
 
 ### 🧡 경력
 
