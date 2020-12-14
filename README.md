@@ -19,5 +19,7 @@
 아직 제가 만든 웹 애플리케이션들을 사용자가 사용하고 피드백을 받아본 경험이 없습니다. **비바리퍼블리카**에 입사하여 즐거운 분위기에서 신규 웹 애플리케이션 서비스를 개발하여 실시간으로 방대한 유저한테 피드백을 받고 더 좋은 서비스를 만드는 프론트엔드 개발자로 **비바리퍼블리카**와 함께 성장하고 싶습니다. 감사합니다.
 
 **Portpolio** : https://dev-donghyuk.github.io/portpolio
+<br />
 **Notion** : https://www.notion.so/Donghyuk-Kim-6585ae54500946daa55004efbdea71c6
+<br />
 **Git** : https://github.com/dev-donghyuk
