@@ -15,7 +15,9 @@
 ### 🕶 Languages
 ![HTML5](https://img.shields.io/badge/HTML5-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-65449d?style=plastic&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-56c271?style=plastic&logo=CSS3&logoColor=white) ![Javascript](https://img.shields.io/badge/JAVASCRIPT-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-65449d?style=plastic&logo=Javascript&logoColor=white) ![React](https://img.shields.io/badge/REACT-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-65449d?style=plastic&logo=React&logoColor=white) ![Typescript](https://img.shields.io/badge/TYPESCRIPT-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-65449d?style=plastic&logo=Typescript&logoColor=white)
 
-아직 제가 만든 웹 애플리케이션들을 사용자가 사용하고 피드백을 받아본 경험이 없습니다. 새로운 웹 어플리케이션을 만들어 보고 겪으며 실시간으로 방대한 유저한테 피드백을 받고 더 좋은 서비스를 만드는 프론트엔드 개발자로 꼭 함께 성장하고 싶습니다. 감사합니다!
+아직 제가 만든 웹 애플리케이션들을 사용자가 사용하고 피드백을 받아본 경험이 없습니다. 
+새로운 웹 어플리케이션을 만들어 보고 겪으며 실시간으로 방대한 유저한테 피드백을 받고 더 좋은 서비스를 만드는 프론트엔드 개발자로 꼭 함께 성장하고 싶습니다. 
+감사합니다!
 
 **Portpolio** : https://dev-donghyuk.github.io/portpolio
 <br />
