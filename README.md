@@ -1,7 +1,9 @@
 ### 안녕하세요 산업기능요원 보충역 프론트엔드 개발자로 지원한 김동혁입니다.
 
-저는 HTML5, CSS3, Javascript, Jquery, React, Redux, Next.Js, Typescript로 프로젝트🏢를 해본 **경험**이 있습니다.
-최근에 **Javascript**와 **ES6**를 기초부터 다시 공부하고 있는데, 다른건 몰라도 **프론트엔드 개발자**가 Javascript는 다른 언어들 보다 더욱 잘해야된다고 생각해 다시 공부를 하고있습니다.
+저는 HTML5, CSS3, Javascript, Jquery, React, Redux, Redux-Saga, Next.Js, Typescript, Express로 프로젝트🏢를 해본 **경험**이 있습니다.
+
+저의 가장 큰 장점은 친화력이 좋고, 적극적입니다. 대인관계를 보다 원할하게 유지하려고 노력하며 답을 찾기 위해서라면 끝까지 쫒아다닙니다.
+항상 제가 맡은 일에 책임감을 가지고 최선을 다하려고 노력합니다.
 
 ### 💜 경력
 
